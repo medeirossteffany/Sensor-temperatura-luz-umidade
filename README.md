@@ -1,5 +1,7 @@
 # Sensor de temperatura, luz e umidade
 
+![SimulaçãoArduino](https://github.com/medeirossteffany/Sensor-temperatura-luz-umidade/blob/main/simula%C3%A7%C3%A3o.jpeg)
+
 ## Integrantes do Grupo
 - Gustavo Henrique – 556712 
 - Milena Garcia – 555111 
